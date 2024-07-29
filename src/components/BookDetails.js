@@ -88,7 +88,7 @@ const BookDetails = () => {
                 <img
                   src={audioBook.coverImage}
                   alt={audioBook.title}
-                  className="w-full h-96 object-cover mb-4 md:mb-0 rounded-lg"
+                  className="w-full h-96 object-fit mb-4 md:mb-0 rounded-lg"
                 />
               </div>
               <div className="flex flex-col justify-between">

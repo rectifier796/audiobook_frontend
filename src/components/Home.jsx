@@ -100,7 +100,7 @@ const Home = () => {
                     <img
                       src={book.coverImage}
                       alt="book"
-                      className="w-full h-48 object-cover"
+                      className="w-full h-48 object-fit"
                     />
                     <div className="p-4">
                       <h3 className="text-xl font-semibold mb-2">
