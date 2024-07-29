@@ -40,3 +40,12 @@ The Application Runs on **localhost:3000**
 #### HTTP client
 
 **axios** library is used to make HTTP Calls
+
+
+## Backend Links
+
+Github Link:
+### https://github.com/rectifier796/audiobook_backend
+
+Deployment Link:
+### https://audiobook-backend-theta.vercel.app
